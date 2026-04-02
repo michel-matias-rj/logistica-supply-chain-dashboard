@@ -25,4 +25,4 @@ https://github.com/user-attachments/assets/df5f3fc7-b56c-4c5b-ab43-e57c496aeb77
 
 
 ## 📂 Como acessar
-O arquivo original `.pbix` está disponível na pasta `/pbix`.
+O arquivo original `.pbix` está disponível no arquico Logistica_frota/pbix`.
